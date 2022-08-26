@@ -1,2 +1,2 @@
-# Python-kurs-1-kun
-Python dasturlash tili bo'yicha o'qiyotgan kursimning birinchi kunida yozgan kodlarim
+# Python-kurs
+Men python dasturlash tilini o'rgatuvchi kursda o'qiyabman va qilgan ishlarimni shu omborga joykab boraman.
